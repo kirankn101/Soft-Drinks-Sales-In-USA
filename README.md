@@ -1,8 +1,8 @@
-# 🥤 Sales Dashboard - Soft Drink Brands
+# Sales Dashboard - Soft Drink Brands
 
 This Power BI dashboard provides a comprehensive overview of beverage sales performance across the United States. The dashboard visualizes key metrics such as revenue, units sold, and average price per unit, enabling quick and effective business insights by month, state, and brand.
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 - **KPI Cards**
   - **Total Revenue**: 1.13M
@@ -20,11 +20,5 @@ This Power BI dashboard provides a comprehensive overview of beverage sales perf
 - **Brand Selector**
   - Slicer for filtering by beverage brand: Coca-Cola, Diet Coke, Dasani Water, Fanta, and Powerade
 
-## 📌 Technologies Used
 
-- **Power BI Desktop**
-- **DAX for measures and KPIs**
-- **Bing Maps for geospatial visualization**
-
-## 📁 File Structure
 
